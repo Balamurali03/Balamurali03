@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ![My Banner](https://your-image-link.com/ironman-banner.jpg)
 
-# Hello, I'm [Balamurali R]! 👋
+# Hello, I'm Balamurali R! 👋
 
-Welcome to my GitHub profile! I’m a passionate [ FullStack Developer] with a knack for [Java and React], with ingenuity and innovation.
+Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
 
 ## 🚀 About Me
 
