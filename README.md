@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My Banner](https://your-image-link.com/ironman-banner.jpg)
+!My Banner(https://drive.google.com/file/d/143TQgkjKSUZAaPf54CJ0rEINYYnYGIM_/view?usp=drive_link))
 
 # Hello, I'm Balamurali R! 👋
 
