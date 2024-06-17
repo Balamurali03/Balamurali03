@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knac
 ## 🛠️ Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-FF0000?style=flat&logo=Java)
-![Spring Boot](https://img.shields.io/badge/-Spring-Boot-FF0000?style=flat&logo=spring-boot)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-FF0000?style=flat&logo=springboot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF0000?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-FF0000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-FF0000?style=flat&logo=css3)
