@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-!My Banner(https://drive.google.com/file/d/143TQgkjKSUZAaPf54CJ0rEINYYnYGIM_/view?usp=drive_link))
+!My Banner(https://drive.google.com/file/d/143TQgkjKSUZAaPf54CJ0rEINYYnYGIM_/bala.jpg))
 
 # Hello, I'm Balamurali R! 👋
 
