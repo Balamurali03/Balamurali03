@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Iron Man Banner](https://your-image-link.com/ironman-banner.jpg)
+![My Banner](https://your-image-link.com/ironman-banner.jpg)
 
 # Hello, I'm [Balamurali R]! 👋
 
@@ -32,21 +32,21 @@ Welcome to my GitHub profile! I’m a passionate [ FullStack Developer] with a k
 
 ## 🛠️ Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-FF0000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-FF0000?style=flat&logo=Java)
+![Spring Boot](https://img.shields.io/badge/-Spring-Boot-FF0000?style=flat&logo=spring-boot)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF0000?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-FF0000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-FF0000?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-FF0000?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-FF0000?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-FF0000?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-FF0000?style=flat&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/-Docker-FF0000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-FF0000?style=flat&logo=amazon-aws)
+
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&icon_color=FF0000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&icon_color=FF0000)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=dark&icon_color=FF0000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=dark&icon_color=FF0000)
 
 ## 🌟 Featured Projects
 
