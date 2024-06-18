@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-!My Banner <img src=(https://github.com/Balamurali03/Balamurali03/blob/main/Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
+!My Banner <img src="./Black Geometric Corporate Personal Profile LinkedIn Banner.jpg" alt="My Banner" style="width:100%; height:auto;"> <img src=(https://github.com/Balamurali03/Balamurali03/blob/main/Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
 />  
 # Hello, I'm Balamurali R! 👋
 
