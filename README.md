@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 - [Blog Post 3 Title](https://yourblog.com/post3)
 
 -->
+<div style="background-color: black;style="width:50px; height:100px;"></div>
 <div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
   <img src="./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg" alt="My Banner" style="width:100%; height:auto; border-radius: 10px;">
   
-  <h1 style="color: red !important">Hello, I'm Balamurali R! 👋</h1>
+  <h1>Hello, I'm Balamurali R! 👋</h1>
 
   <p>Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.</p>
 
