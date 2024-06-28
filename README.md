@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knac
 - 👯 I’m looking to collaborate on [Collaboration Interest]
 - 🤔 I’m looking for help with [Help Needed]
 - 💬 Ask me about [Topics you are knowledgeable about]
-- 📫 How to reach me: [Your Contact Information]
+- 📫 How to reach me: (https://balamurali-portfolio.netlify.app/)
 - ⚡ Fun fact: [A fun fact about you]
 
 ## 🛠️ Languages and Tools
@@ -61,7 +61,7 @@ Description of your project. Explain what it does, the technologies used, and an
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
 [![Twitter](https://img.shields.io/badge/-Twitter-FF0000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Personal Website](https://img.shields.io/badge/-Website-FF0000?style=flat&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Personal Website](https://img.shields.io/badge/-Website-FF0000?style=flat&logo=About.me&logoColor=white)](https://balamurali-portfolio.netlify.app/)
 
 ## 📖 Latest Blog Posts
 
