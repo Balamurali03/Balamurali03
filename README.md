@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
   <img src="./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg" alt="My Banner" style="width:100%; height:auto; border-radius: 10px;">
   
-  <h1>Hello, I'm Balamurali R! 👋</h1>
+  <h1 style="color: red">Hello, I'm Balamurali R! 👋</h1>
 
   <p>Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.</p>
 
