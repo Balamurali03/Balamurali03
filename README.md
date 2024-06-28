@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [Blog Post 3 Title](https://yourblog.com/post3)
 
 -->
-<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
+<div style="background-color: black; color: white; padding: 20px; border-radius: 10px; width:100%; height:auto;">
   <img src="./Black Geometric Corporate Personal Profile LinkedIn Banner.jpg" alt="My Banner" style="width:100%; height:auto; border-radius: 10px;">
   
   # Hello, I'm Balamurali R! 👋
