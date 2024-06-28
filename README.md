@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- Adding a background image -->
 ![Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
 
-<div align="center">
+<div align="center" style="background-color: black">
 
 # <span style="color: white;">Hello, I'm Balamurali R! 👋</span>
 
