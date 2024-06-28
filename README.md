@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 <!--
 **Balamurali03/Balamurali03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,8 +16,20 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [Collaboration Interest]
 - 💬 Ask me about [Topics you are knowledgeable about]
 - ⚡ Fun fact: [A fun fact about you]
+
+![Project 1 Image](https://your-image-link.com/project1.jpg)
+![Project 2 Image](https://your-image-link.com/project2.jpg)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-FF0000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+## 📖 Latest Blog Posts
+
+- [Blog Post 1 Title](https://yourblog.com/post1)
+- [Blog Post 2 Title](https://yourblog.com/post2)
+- [Blog Post 3 Title](https://yourblog.com/post3)
+
 -->
- <img src="./Black Geometric Corporate Personal Profile LinkedIn Banner.jpg" alt="My Banner" style="width:100%; height:auto;"> 
+ <img src="./Black Geometric Corporate Personal Profile LinkedIn Banner.jpg" alt="My Banner" style="width:100%; height:auto;">
+ 
 # Hello, I'm Balamurali R! 👋
 
 Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
@@ -50,30 +62,25 @@ Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knac
 ## 🌟 Featured Projects
 
 ### [ComprehensiveTaskManagerWebApplication](https://github.com/Balamurali03/ComprehensiveTaskManagerWebApplication)
-![Project 1 Image](https://your-image-link.com/project1.jpg)
-It is my own basic level project for task management which includes SpringBoot, React, and Spring Security.
 
-### [Project 2 Name](https://github.com/yourusername/project2)
-![Project 2 Image](https://your-image-link.com/project2.jpg)
-Description of your project. Explain what it does, the technologies used, and any other interesting details.
+#### It is my own basic level project for task management which includes SpringBoot, React, and Spring Security.
+
+### [basic-Practice-App](https://github.com/Balamurali03/basic-Practice-App)
+
+#### Its a practice spring boot app in which i have included spring boor actuators, Global exception handler class and also included loggers and the log file
 
 ## 💼 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-murali-a56b55168/)
-[![Twitter](https://img.shields.io/badge/-Twitter-FF0000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Personal Website](https://img.shields.io/badge/-Website-FF0000?style=flat&logo=About.me&logoColor=white)](https://balamurali-portfolio.netlify.app/)
 
-## 📖 Latest Blog Posts
 
-- [Blog Post 1 Title](https://yourblog.com/post1)
-- [Blog Post 2 Title](https://yourblog.com/post2)
-- [Blog Post 3 Title](https://yourblog.com/post3)
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Balamurali03.Balamurali03)
 
 ---
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [BALAMURALI R](https://github.com/Balamurali03)
