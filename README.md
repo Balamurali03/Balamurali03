@@ -13,21 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on [Collaboration Interest]
+- 💬 Ask me about [Topics you are knowledgeable about]
+- ⚡ Fun fact: [A fun fact about you]
 -->
-!My Banner <img src="./Black Geometric Corporate Personal Profile LinkedIn Banner.jpg" alt="My Banner" style="width:100%; height:auto;"> 
+ <img src="./Black Geometric Corporate Personal Profile LinkedIn Banner.jpg" alt="My Banner" style="width:100%; height:auto;"> 
 # Hello, I'm Balamurali R! 👋
 
 Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Current Learning Topic]
-- 👯 I’m looking to collaborate on [Collaboration Interest]
-- 🤔 I’m looking for help with [Help Needed]
-- 💬 Ask me about [Topics you are knowledgeable about]
-- 📫 How to reach me: (https://balamurali-portfolio.netlify.app/)
-- ⚡ Fun fact: [A fun fact about you]
+- 🔭 I’m currently working with a client of Dextris Technologies
+- 🌱 I’m currently learning MicroServices and Kafka
+- 🤔 I’m looking for help with Kafka
+- 📫 How to reach me: (balamurali03101997@gmail.com)
 
 ## 🛠️ Languages and Tools
 
@@ -49,9 +49,9 @@ Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knac
 
 ## 🌟 Featured Projects
 
-### [Project 1 Name](https://github.com/yourusername/project1)
+### [ComprehensiveTaskManagerWebApplication](https://github.com/Balamurali03/ComprehensiveTaskManagerWebApplication)
 ![Project 1 Image](https://your-image-link.com/project1.jpg)
-Description of your project. Explain what it does, the technologies used, and any other interesting details.
+It is my own basic level project for task management which includes SpringBoot, React, and Spring Security.
 
 ### [Project 2 Name](https://github.com/yourusername/project2)
 ![Project 2 Image](https://your-image-link.com/project2.jpg)
@@ -59,7 +59,7 @@ Description of your project. Explain what it does, the technologies used, and an
 
 ## 💼 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF0000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-murali-a56b55168/)
 [![Twitter](https://img.shields.io/badge/-Twitter-FF0000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Personal Website](https://img.shields.io/badge/-Website-FF0000?style=flat&logo=About.me&logoColor=white)](https://balamurali-portfolio.netlify.app/)
 
