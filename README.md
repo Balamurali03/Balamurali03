@@ -28,12 +28,10 @@ Here are some ideas to get you started:
 - [Blog Post 3 Title](https://yourblog.com/post3)
 
 -->
-
-<body style="background-color: black;>
     <!-- Adding a background image -->
 <img src="./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg" alt="My Banner" style="width:100%; height:auto; border-radius: 10px;">
-
-<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;align-content:centre;" >
+     
+<div style="background-color:black; color:white; padding:20px; border-radius:10px;">
   <h1 style="color: white;">Hello, I'm Balamurali R! 👋</h1>
 
   <p style="color: white;">Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.</p>
@@ -94,5 +92,3 @@ Here are some ideas to get you started:
 
   <p style="color: white;">⭐️ From <a href="https://github.com/Balamurali03" style="color: #FF6347;">BALAMURALI R</a></p>
 </div>
-
-</body>
