@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - [Blog Post 3 Title](https://yourblog.com/post3)
 
 -->
-    <!-- 
+<!-- 
     Adding a background image
-    -->
+-->
 <img src="./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg" alt="My Banner" style="width:100%; height:auto; border-radius: 10px;">
      
 <div style="background-color:black; color:white; padding:20px; border-radius:10px;">
