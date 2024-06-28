@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <h2 style="color: white;">🚀 About Me</h2>
   <ul style="color: white;">
     <li>🔭 I’m currently working with a client of Dextris Technologies</li>
-    <li>🌱 I’m currently learning MicroServices and Kafka</li>
+    <li>🌱 I’m currently learning <b color="blue">MicroServices and Kafka</b></li>
     <li>🤔 I’m looking for help with Kafka</li>
     <li>📫 How to reach me: <a href="mailto:balamurali03101997@gmail.com" style="color: #FF6347;">balamurali03101997@gmail.com</a></li>
   </ul>
