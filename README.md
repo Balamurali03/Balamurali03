@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <body>
     <!-- Adding a background image -->
-![Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
+<img src="./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg" alt="My Banner" style="width:100%; height:auto; border-radius: 10px;">
 
 <div style="background-color: black; color: white; padding: 20px; border-radius: 10px;align-content:centre;" >
   <h1 style="color: white;">Hello, I'm Balamurali R! 👋</h1>
