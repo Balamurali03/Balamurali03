@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 - [Blog Post 3 Title](https://yourblog.com/post3)
 
 -->
+
 <!-- Adding a background image -->
 ![Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
 
-<div align="center"; background-color="black">
+<div align="center" className="mydiv" style="background-color: black; color: white;>
 
 # <span style="color: white;">Hello, I'm Balamurali R! 👋</span>
 
