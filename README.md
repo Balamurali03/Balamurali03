@@ -28,62 +28,56 @@ Here are some ideas to get you started:
 - [Blog Post 3 Title](https://yourblog.com/post3)
 
 -->
-<div style="background-color: black; color: white ; padding: 20px ; border-radius: 10px ;!important">
-  <img src="./Black Geometric Corporate Personal Profile LinkedIn Banner.jpg" alt="My Banner" style="width:100%; height:auto; border-radius: 10px;">
-  
-  # Hello, I'm Balamurali R! 👋
+![Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
 
-  Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
+# Hello, I'm Balamurali R! 👋
 
-  ## 🚀 About Me
+Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
 
-  - 🔭 I’m currently working with a client of Dextris Technologies
-  - 🌱 I’m currently learning MicroServices and Kafka
-  - 🤔 I’m looking for help with Kafka
-  - 📫 How to reach me: <a href="mailto:balamurali03101997@gmail.com" style="color: #FF6347;">balamurali03101997@gmail.com</a>
+## 🚀 About Me
 
-  ## 🛠️ Languages and Tools
+- 🔭 I’m currently working with a client of Dextris Technologies
+- 🌱 I’m currently learning MicroServices and Kafka
+- 🤔 I’m looking for help with Kafka
+- 📫 How to reach me: [balamurali03101997@gmail.com](mailto:balamurali03101997@gmail.com)
 
-  ![Java](https://img.shields.io/badge/-Java-FF6347?style=flat&logo=Java)
-  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-FF6347?style=flat&logo=springboot)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-FF6347?style=flat&logo=javascript)
-  ![HTML](https://img.shields.io/badge/-HTML-FF6347?style=flat&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-FF6347?style=flat&logo=css3)
-  ![React](https://img.shields.io/badge/-React-FF6347?style=flat&logo=react)
-  ![Git](https://img.shields.io/badge/-Git-FF6347?style=flat&logo=git)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-FF6347?style=flat&logo=visual-studio-code)
-  ![AWS](https://img.shields.io/badge/-AWS-FF6347?style=flat&logo=amazon-aws)
+## 🛠️ Languages and Tools
 
-  ## 📈 GitHub Stats
+![Java](https://img.shields.io/badge/-Java-FF6347?style=flat&logo=Java)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-FF6347?style=flat&logo=springboot)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FF6347?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-FF6347?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-FF6347?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-FF6347?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-FF6347?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-FF6347?style=flat&logo=visual-studio-code)
+![AWS](https://img.shields.io/badge/-AWS-FF6347?style=flat&logo=amazon-aws)
 
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=dark&icon_color=FF6347)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=dark&icon_color=FF6347)
+## 📈 GitHub Stats
 
-  ## 🌟 Featured Projects
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=dark&icon_color=FF6347)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=dark&icon_color=FF6347)
 
-  ### [ComprehensiveTaskManagerWebApplication](https://github.com/Balamurali03/ComprehensiveTaskManagerWebApplication)
+## 🌟 Featured Projects
 
-  #### It is my own basic level project for task management which includes SpringBoot, React, and Spring Security.
+### [ComprehensiveTaskManagerWebApplication](https://github.com/Balamurali03/ComprehensiveTaskManagerWebApplication)
 
-  ### [basic-Practice-App](https://github.com/Balamurali03/basic-Practice-App)
+#### It is my own basic level project for task management which includes SpringBoot, React, and Spring Security.
 
-  #### Its a practice spring boot app in which i have included spring boot actuators, Global exception handler class and also included loggers and the log file
+### [basic-Practice-App](https://github.com/Balamurali03/basic-Practice-App)
 
-  ## 💼 Connect with Me
+#### Its a practice spring boot app in which I have included spring boot actuators, Global exception handler class and also included loggers and the log file
 
-  <a href="https://www.linkedin.com/in/bala-murali-a56b55168/" style="color: #FF6347;">
-    <img src="https://img.shields.io/badge/-LinkedIn-FF6347?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://balamurali-portfolio.netlify.app/" style="color: #FF6347;">
-    <img src="https://img.shields.io/badge/-Website-FF6347?style=flat&logo=About.me&logoColor=white">
-  </a>
+## 💼 Connect with Me
 
-  ## 📝 License
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6347?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-murali-a56b55168/)
+[![Personal Website](https://img.shields.io/badge/-Website-FF6347?style=flat&logo=About.me&logoColor=white)](https://balamurali-portfolio.netlify.app/)
 
-  This project is licensed under the MIT License - see the <a href="LICENSE" style="color: #FF6347;">LICENSE</a> file for details.
+## 📝 License
 
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Balamurali03.Balamurali03)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-  ---
-  ### ⭐️ From <a href="https://github.com/Balamurali03" style="color: #FF6347;">BALAMURALI R</a>
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Balamurali03.Balamurali03)
+
+---
+### ⭐️ From [BALAMURALI R](https://github.com/Balamurali03)
