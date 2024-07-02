@@ -65,16 +65,22 @@ Here are some ideas to get you started:
  ![JavaScript](https://img.shields.io/badge/-JavaScript-FF6347?style=flat&logo=javascript)
 
 ### Frameworks and Libraries
-- SpringBoot, React
+- ![SpringBoot](https://img.shields.io/badge/-SpringBoot-FF6347?style=flat&logo=springboot)
+  ![React](https://img.shields.io/badge/-React-FF6347?style=flat&logo=react)
+  
+  ### Web Technologies
+- ![HTML](https://img.shields.io/badge/-HTML-FF6347?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-FF6347?style=flat&logo=css3)
 
 ### Version Control
-- Git
+- ![Git](https://img.shields.io/badge/-Git-FF6347?style=flat&logo=git)
 
 ### IDEs
-- VS Code
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-FF6347?style=flat&logo=visual-studio-code)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-FF6347?style=flat&logo=Eclipse)
 
 ### Cloud Platforms
-- AWS
+- ![AWS](https://img.shields.io/badge/-AWS-FF6347?style=flat&logo=amazon-aws)
 
 ---
 
