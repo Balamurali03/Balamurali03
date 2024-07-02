@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 <details>
-  <summary style="color: white;"><b>Click to expand!</b></summary>
+  <summary style="color: white; background-color: black"><b>Click to expand!</b></summary>
   
   Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
 
