@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 ## 💼 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5A72A0?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bala-murali-a56b55168/)
-- [![Personal Website](https://img.shields.io/badge/-Portfolio-5A72A0?style=flat&logo=website&logoColor=white)](https://balamurali-portfolio.netlify.app/)
+- [![Personal Website](https://img.shields.io/badge/-Portfolio-5A72A0?style=flat&logo=globe&logoColor=white)](https://balamurali-portfolio.netlify.app/)
 
 ---
 
