@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!-- 
     Adding a background image
 -->
-
+<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
 # Hello, I'm Balamurali R! 👋
 
 ![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
@@ -96,3 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐️ From [BALAMURALI R](https://github.com/Balamurali03)
+</div>
