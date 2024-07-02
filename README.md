@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   - Kafka
 
   ### 📫 How to reach me
-  - [balamurali03101997@gmail.com](mailto:balamurali03101997@gmail.com)
+  - [balamurali03101997@gmail.com](mailto:balamurali03101997@gmail.com?style=flat&logo=gmail)
 </details>
 
 ---
