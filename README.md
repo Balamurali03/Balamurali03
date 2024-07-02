@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=dark&icon_color=FF6347)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=dark&icon_color=FF6347)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=dark&icon_color=FF6347)    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=dark&icon_color=FF6347)
 
 ---
 
