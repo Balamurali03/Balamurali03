@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
-🔭 I’m currently working with a client of Dextris Technologies
-🌱 I’m currently learning MicroServices and Kafka
-🤔 I’m looking for help with Kafka
-📫 How to reach me: (balamurali03101997@gmail.com)
+### Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
+- 🔭 I’m currently working with a client of Dextris Technologies
+- 🌱 I’m currently learning MicroServices and Kafka
+- 🤔 I’m looking for help with Kafka
+- 📫 How to reach me: (balamurali03101997@gmail.com)
 ---
 
 ## 🛠️ Languages and Tools
