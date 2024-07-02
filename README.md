@@ -61,31 +61,31 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
-- ![Java](https://img.shields.io/badge/-Java-FF6347?style=flat&logo=java)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-FF6347?style=flat&logo=javascript)
+- ![Java](https://img.shields.io/badge/-Java-5A72A0?style=flat&logo=java)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-5A72A0?style=flat&logo=javascript)
 
 ### Frameworks and Libraries
-- ![SpringBoot](https://img.shields.io/badge/-SpringBoot-FF6347?style=flat&logo=springboot)
-  ![React](https://img.shields.io/badge/-React-FF6347?style=flat&logo=react)
-  ![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-FF6347?style=flat&logo=springsecurity)
+- ![SpringBoot](https://img.shields.io/badge/-SpringBoot-5A72A0?style=flat&logo=springboot)
+  ![React](https://img.shields.io/badge/-React-5A72A0?style=flat&logo=react)
+  ![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-5A72A0?style=flat&logo=springsecurity)
   
 ### Web Technologies
-- ![HTML](https://img.shields.io/badge/-HTML-FF6347?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-FF6347?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-FF6347?style=flat&logo=Bootstrap)
+- ![HTML](https://img.shields.io/badge/-HTML-5A72A0?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-5A72A0?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-5A72A0?style=flat&logo=Bootstrap)
 
 ### Version Control
-- ![Git](https://img.shields.io/badge/-Git-FF6347?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-FF6347?style=flat&logo=github)
+- ![Git](https://img.shields.io/badge/-Git-5A72A0?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-5A72A0?style=flat&logo=github)
 
 ### IDEs
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-FF6347?style=flat&logo=visual-studio-code)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-FF6347?style=flat&logo=Eclipse)
-  ![Sts](https://img.shields.io/badge/-Spring%20Tools%204-FF6347?style=flat&logo=spring)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-FF6347?style=flat&logo=intellij-idea)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-5A72A0?style=flat&logo=visual-studio-code)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-5A72A0?style=flat&logo=Eclipse)
+  ![Sts](https://img.shields.io/badge/-Spring%20Tools%204-5A72A0?style=flat&logo=spring)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5A72A0?style=flat&logo=intellij-idea)
 
 ### Cloud Platforms
-- ![AWS](https://img.shields.io/badge/-AWS-FF6347?style=flat&logo=amazon-aws)
+- ![AWS](https://img.shields.io/badge/-AWS-5A72A0?style=flat&logo=amazon-aws)
 
 ---
 
