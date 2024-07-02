@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
-- ![Java](https://img.shields.io/badge/-Java-5A72A0?style=flat&logo=core-java)
+- ![Java](https://img.shields.io/badge/-Java-5A72A0?style=flat&logo=java-8)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-5A72A0?style=flat&logo=javascript)
 
 ### Frameworks and Libraries
