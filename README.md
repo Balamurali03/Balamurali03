@@ -38,34 +38,49 @@ Here are some ideas to get you started:
 ![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
 
 ---
-<div class="markdown-body">
 
 ## 🚀 About Me
 
-### Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
-- 🔭 I’m currently working with a client of <b>Dextris Technologies</b>.
-- 🌱 I’m currently learning MicroServices and Kafka
-- 🤔 I’m looking for help with Kafka
-- 📫 How to reach me: (balamurali03101997@gmail.com)
+<details>
+  <summary style="color: white;"><b>Click to expand!</b></summary>
+  
+  Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
+
+  ### 🌱 I’m currently learning
+  - MicroServices and Kafka
+
+  ### 🤔 I’m looking for help with
+  - Kafka
+
+  ### 📫 How to reach me
+  - [balamurali03101997@gmail.com](mailto:balamurali03101997@gmail.com)
+</details>
+
 ---
 
 ## 🛠️ Languages and Tools
 
-![Java](https://img.shields.io/badge/-Java-FF6347?style=flat&logo=Java)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-FF6347?style=flat&logo=springboot)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF6347?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-FF6347?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-FF6347?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-FF6347?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-FF6347?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-FF6347?style=flat&logo=visual-studio-code)
-![AWS](https://img.shields.io/badge/-AWS-FF6347?style=flat&logo=amazon-aws)
+### Programming Languages
+- Java, JavaScript
+
+### Frameworks and Libraries
+- SpringBoot, React
+
+### Version Control
+- Git
+
+### IDEs
+- VS Code
+
+### Cloud Platforms
+- AWS
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=dark&icon_color=FF6347)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=dark&icon_color=FF6347)
 
 ---
@@ -73,17 +88,17 @@ Here are some ideas to get you started:
 ## 🌟 Featured Projects
 
 ### [ComprehensiveTaskManagerWebApplication](https://github.com/Balamurali03/ComprehensiveTaskManagerWebApplication)
-It is my own basic level project for task management which includes SpringBoot, React, and Spring Security.
+- A task management project using SpringBoot, React, and Spring Security.
 
 ### [basic-Practice-App](https://github.com/Balamurali03/basic-Practice-App)
-It's a practice Spring Boot app that includes Spring Boot actuators, global exception handler class, loggers, and log files.
+- A practice Spring Boot app featuring Spring Boot actuators, global exception handler class, and logging.
 
 ---
 
 ## 💼 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF6347?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-murali-a56b55168/)
-[![Personal Website](https://img.shields.io/badge/-Website-FF6347?style=flat&logo=About.me&logoColor=white)](https://balamurali-portfolio.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/bala-murali-a56b55168/)
+- [Personal Website](https://balamurali-portfolio.netlify.app/)
 
 ---
 
@@ -98,4 +113,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐️ From [BALAMURALI R](https://github.com/Balamurali03)
-</div>
