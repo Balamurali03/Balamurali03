@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
-- Java, JavaScript
+- ![Java](https://img.shields.io/badge/-Java-FF6347?style=flat&logo=Java), ![JavaScript](https://img.shields.io/badge/-JavaScript-FF6347?style=flat&logo=javascript)
 
 ### Frameworks and Libraries
 - SpringBoot, React
