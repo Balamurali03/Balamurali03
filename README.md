@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   }
 </style>    
 ---
+<div class="markdown-body">
 
 ## 🚀 About Me
 
@@ -105,4 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐️ From [BALAMURALI R](https://github.com/Balamurali03)
-
+</div>
