@@ -32,6 +32,11 @@ Here are some ideas to get you started:
     Adding a background image
 -->
 
+
+# Hello, I'm Balamurali R! 👋
+
+![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
+
 <style>
   .markdown-body {
     background-color: black;
@@ -39,14 +44,7 @@ Here are some ideas to get you started:
     padding: 20px;
     border-radius: 10px;
   }
-</style>
-
-    
-# Hello, I'm Balamurali R! 👋
-
-![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
-
-
+</style>    
 ---
 
 ## 🚀 About Me
