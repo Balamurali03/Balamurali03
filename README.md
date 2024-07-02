@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ### IDEs
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-FF6347?style=flat&logo=visual-studio-code)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-FF6347?style=flat&logo=Eclipse)
-  ![Sts](https://img.shields.io/badge/-Spring%20Tools%204-FF6347?style=flat&logo=spring-tools-4)
+  ![Sts](https://img.shields.io/badge/-Spring%20Tools%204-FF6347?style=flat&logo=spring)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-FF6347?style=flat&logo=intellij-idea)
 
 ### Cloud Platforms
