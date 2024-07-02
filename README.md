@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5A72A0?style=flat&logo=intellij-idea)
 
 ### Cloud Platforms
-- ![AWS](https://img.shields.io/badge/-AWS-5A72A0?style=flat&logo=amazon-aws)
+- ![AWS](https://img.shields.io/badge/-AWS-5A72A0?style=flat&logo=amazon-web-services)
 
 ---
 
