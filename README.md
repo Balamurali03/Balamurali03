@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - [Blog Post 1 Title](https://yourblog.com/post1)
 - [Blog Post 2 Title](https://yourblog.com/post2)
 - [Blog Post 3 Title](https://yourblog.com/post3)
+- [LinkedIn](https://www.linkedin.com/in/bala-murali-a56b55168/)
+- [Personal Website](https://balamurali-portfolio.netlify.app/)
 
 -->
 <!-- 
@@ -108,8 +110,8 @@ Here are some ideas to get you started:
 
 ## 💼 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/bala-murali-a56b55168/)
-- [Personal Website](https://balamurali-portfolio.netlify.app/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5A72A0?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bala-murali-a56b55168/)
+- [![Personal Website](https://img.shields.io/badge/-Portfolio-5A72A0?style=flat&logo=web&logoColor=white)](https://balamurali-portfolio.netlify.app/)
 
 ---
 
