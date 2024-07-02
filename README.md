@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 # Hello, I'm Balamurali R! 👋
 
 ![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
-
+``markdown
 <style>
   .markdown-body {
     background-color: black;
