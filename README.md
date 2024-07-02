@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 ### Web Technologies
 - ![HTML](https://img.shields.io/badge/-HTML-FF6347?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-FF6347?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-FF6347?style=flat&logo=Bootstrap)
 
 ### Version Control
 - ![Git](https://img.shields.io/badge/-Git-FF6347?style=flat&logo=git)
