@@ -49,10 +49,6 @@ Here are some ideas to get you started:
   
   Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
 
-  
-![name](./gifname.gif)
-  
-
   ### 🌱 I’m currently learning
   - MicroServices and Kafka
 
