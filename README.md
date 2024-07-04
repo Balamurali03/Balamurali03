@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
 
   <div "align:center">
-      ![name](./gifname.gif)
+![name](./gifname.gif)
   </div>
 
   ### 🌱 I’m currently learning
