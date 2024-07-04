@@ -40,9 +40,6 @@ Here are some ideas to get you started:
 
 ![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
   
-![name](./gifname.gif)
-
-
 ---
 
 ## 🚀 About Me
@@ -51,6 +48,10 @@ Here are some ideas to get you started:
   <summary style="color: white; background-color: black"><b>Click to expand!</b></summary>
   
   Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
+
+  <div "align:center">
+      ![name](./gifname.gif)
+  </div>
 
   ### 🌱 I’m currently learning
   - MicroServices and Kafka
