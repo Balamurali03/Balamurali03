@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 
 ![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
 
+(https://github.com/Balamurali03/Balamurali03/blob/main/namegif.mp4%20%20)  
+(https://github.com/Balamurali03/Balamurali03/blob/main/gifname.gif)
+
 ---
 
 ## 🚀 About Me
