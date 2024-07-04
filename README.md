@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
   
-(./gifname.gif)
+![name](./gifname.gif)
 
 ---
 
