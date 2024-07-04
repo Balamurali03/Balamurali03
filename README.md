@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [Blog Post 3 Title](https://yourblog.com/post3)
 - [LinkedIn](https://www.linkedin.com/in/bala-murali-a56b55168/)
 - [Personal Website](https://balamurali-portfolio.netlify.app/)
-gifname.gif
+
 
 -->
 <!-- 
@@ -40,7 +40,7 @@ gifname.gif
 
 ![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
   
-![name](./namegif.mp4/)
+![name](./gifname.gif)
 
 
 ---
