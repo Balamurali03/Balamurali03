@@ -90,6 +90,9 @@ Here are some ideas to get you started:
 ### Cloud Platforms
 - ![AWS](https://img.shields.io/badge/-AWS-5A72A0?style=flat&logo=amazon-web-services)
 
+### CI/CD
+- ![Jenkins](https://img.shields.io/badge/-jenkins-5A72A0?style=flat&logo=jenkins)
+
 ---
 
 ## 📈 GitHub Stats
