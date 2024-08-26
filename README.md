@@ -91,8 +91,10 @@ Here are some ideas to get you started:
 - ![AWS](https://img.shields.io/badge/-AWS-5A72A0?style=flat&logo=amazon-web-services)
 
 ### CI/CD
-- ![Jenkins](https://img.shields.io/badge/-jenkins-5A72A0?style=flat&logo=jenkins)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-5A72A0?style=flat&logo=jenkins)
 
+### DevOps
+- ![Docker](https://img.shields.io/badge/-Docker-5A72A0?style=flat&logo=docker)
 ---
 
 ## 📈 GitHub Stats
