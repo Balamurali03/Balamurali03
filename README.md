@@ -1,134 +1,101 @@
+# Hello, I'm Balamurali R 👋  
+**Backend-leaning Full Stack Java Developer | Microservices | Cloud Enthusiast**
 
+![Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
 
-<!--
-**Balamurali03/Balamurali03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on [Collaboration Interest]
-- 💬 Ask me about [Topics you are knowledgeable about]
-- ⚡ Fun fact: [A fun fact about you]
-
-![Project 1 Image](https://your-image-link.com/project1.jpg)
-![Project 2 Image](https://your-image-link.com/project2.jpg)
-
-[![Twitter](https://img.shields.io/badge/-Twitter-FF0000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-## 📖 Latest Blog Posts
-
-- [Blog Post 1 Title](https://yourblog.com/post1)
-- [Blog Post 2 Title](https://yourblog.com/post2)
-- [Blog Post 3 Title](https://yourblog.com/post3)
-- [LinkedIn](https://www.linkedin.com/in/bala-murali-a56b55168/)
-- [Personal Website](https://balamurali-portfolio.netlify.app/)
-
-
--->
-<!-- 
-    Adding a background image
--->
-  
-
-# Hello, I'm Balamurali R! 👋
-
-![My Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
-  
 ---
 
 ## 🚀 About Me
 
-<details>
-  <summary style="color: white; background-color: black"><b>Click to expand!</b></summary>
-  
-  Welcome to my GitHub profile! I’m a passionate FullStack Developer with a knack for Java and React, with ingenuity and innovation.
+I’m a **Full Stack Java Developer with 3+ years of experience** building scalable, maintainable applications using **Java, Spring Boot, and React**.
 
-  ### 🌱 I’m currently learning
-  - MicroServices and Kafka
+I enjoy working on:
+- **Microservice architectures**
+- **Backend system design**
+- **Cloud-native applications**
+- **Automation & developer productivity tools**
 
-  ### 🤔 I’m looking for help with
-  - Kafka
+I strongly believe in **clean code, strong fundamentals, and continuous learning**.
 
-  ### 📫 How to reach me
-  - [![balamurali03101997](https://img.shields.io/badge/-balamurali03101997-5A72A0?style=flat&logo=gmail&logoColor=white)](mailto:balamurali03101997@gmail.com)
-</details>
+> Currently preparing myself for a **product-based company role** by deepening my backend & system-design skills.
 
 ---
 
-## 🛠️ Languages and Tools
+## 🌱 Currently Learning & Exploring
+- Microservices design patterns
+- Apache Kafka (Producer / Consumer / Event-driven systems)
+- AWS (DynamoDB, IAM, EC2 basics)
+- Docker & CI/CD pipelines
 
-### Programming Languages
-- ![Java](https://img.shields.io/badge/-Java-5A72A0?style=flat&logo=java-8)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-5A72A0?style=flat&logo=javascript)
-
-### Frameworks and Libraries
-- ![SpringBoot](https://img.shields.io/badge/-SpringBoot-5A72A0?style=flat&logo=springboot)
-  ![React](https://img.shields.io/badge/-React-5A72A0?style=flat&logo=react)
-  ![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-5A72A0?style=flat&logo=springsecurity)
-  
-### Web Technologies
-- ![HTML](https://img.shields.io/badge/-HTML-5A72A0?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-5A72A0?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-5A72A0?style=flat&logo=Bootstrap)
-
-### Version Control
-- ![Git](https://img.shields.io/badge/-Git-5A72A0?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-5A72A0?style=flat&logo=github)
-
-### IDEs
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-5A72A0?style=flat&logo=visual-studio-code)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-5A72A0?style=flat&logo=Eclipse)
-  ![Sts](https://img.shields.io/badge/-Spring%20Tools%204-5A72A0?style=flat&logo=spring)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5A72A0?style=flat&logo=intellij-idea)
-
-### Cloud Platforms
-- ![AWS](https://img.shields.io/badge/-AWS-5A72A0?style=flat&logo=amazon-web-services)
-
-### CI/CD
-- ![Jenkins](https://img.shields.io/badge/-Jenkins-5A72A0?style=flat&logo=jenkins)
-
-### DevOps
-- ![Docker](https://img.shields.io/badge/-Docker-5A72A0?style=flat&logo=docker)
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=dark&icon_color=FF6347)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=dark&icon_color=FF6347)
+### 👨‍💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-5A72A0?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-5A72A0?style=flat&logo=javascript)
+
+### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-5A72A0?style=flat&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-5A72A0?style=flat&logo=springsecurity)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-5A72A0?style=flat&logo=apachekafka)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-5A72A0?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/HTML5-5A72A0?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-5A72A0?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5A72A0?style=flat&logo=bootstrap)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-5A72A0?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-5A72A0?style=flat&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-5A72A0?style=flat&logo=jenkins)
+
+### 🧰 Tools & IDEs
+![Git](https://img.shields.io/badge/Git-5A72A0?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-5A72A0?style=flat&logo=github)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-5A72A0?style=flat&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/VS%20Code-5A72A0?style=flat&logo=visualstudiocode)
 
 ---
 
 ## 🌟 Featured Projects
 
-### [ComprehensiveTaskManagerWebApplication](https://github.com/Balamurali03/ComprehensiveTaskManagerWebApplication)
-- A task management project using SpringBoot, React, and Spring Security.
+### 🔹 Comprehensive Task Manager Web Application
+🔗 https://github.com/Balamurali03/ComprehensiveTaskManagerWebApplication  
 
-### [basic-Practice-App](https://github.com/Balamurali03/basic-Practice-App)
-- A practice Spring Boot app featuring Spring Boot actuators, global exception handler class, and logging.
-
----
-
-## 💼 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5A72A0?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bala-murali-a56b55168/)
-- [![Personal Website](https://img.shields.io/badge/-Portfolio-5A72A0?style=flat&logo=globe&logoColor=white)](https://balamurali-portfolio.netlify.app/)
+**Tech:** Spring Boot, Spring Security, React, REST APIs  
+- Built a full-stack task management system with authentication & authorization
+- Implemented secure role-based access
+- Designed RESTful APIs with clean separation of concerns
 
 ---
 
-## 📝 License
+### 🔹 Basic Practice Spring Boot Application
+🔗 https://github.com/Balamurali03/basic-Practice-App  
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Tech:** Spring Boot  
+- Implemented global exception handling
+- Integrated Spring Boot Actuator
+- Added structured logging for production readiness
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=dark)
+
+---
+
+## 💼 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bala-murali-a56b55168/)
+- 🌐 [Portfolio Website](https://balamurali-portfolio.netlify.app/)
+- 📧 balamurali03101997@gmail.com
 
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Balamurali03.Balamurali03)
 
----
-
-⭐️ From [BALAMURALI R](https://github.com/Balamurali03)
+⭐️ Thanks for visiting my profile!
