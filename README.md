@@ -80,7 +80,7 @@ I specialize in designing backend systems that are:
 
 ### 🏍️ Two-Wheeler Microservices System
 
-🔗 [(Add your repo link here)](https://github.com/Balamurali03/reactive-two-wheeler-platform)
+🔗 https://github.com/Balamurali03/reactive-two-wheeler-platform
 
 **Highlights:**
 
