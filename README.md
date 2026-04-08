@@ -1,98 +1,181 @@
-# Hello, I'm Balamurali R 👋  
-**Backend-leaning Full Stack Java Developer | Microservices | Cloud Enthusiast**
+# 👋 Hey, I'm Balamurali R
 
-![Banner](./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
+### 🚀 Backend Engineer in the Making | Java | Microservices | Cloud | System Design
 
----
-
-## 🚀 About Me
-
-I’m a **Full Stack Java Developer with 3+ years of experience** building scalable, maintainable applications using **Java, Spring Boot, and React**.
-
-I enjoy working on:
-- **Microservice architectures**
-- **Backend system design**
-- **Cloud-native applications**
-- **Automation & developer productivity tools**
-
-I strongly believe in **clean code, strong fundamentals, and continuous learning**.
-
-> Currently preparing myself for a **product-based company role** by deepening my backend & system-design skills.
+<p align="center">
+  <img src="./Black%20Geometric%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg" alt="banner"/>
+</p>
 
 ---
 
-## 🌱 Currently Learning & Exploring
-- Microservices design patterns
-- Apache Kafka (Producer / Consumer / Event-driven systems)
-- AWS (DynamoDB, IAM, EC2 basics)
-- Docker & CI/CD pipelines
+## 🧠 About Me
+
+I’m a **Backend-focused Full Stack Developer with 3+ years of experience** building **scalable, secure, and production-grade systems**.
+
+I specialize in designing backend systems that are:
+
+* ⚡ Scalable under high load
+* 🔐 Secure by design
+* 🧩 Cleanly architected
+* 🔄 Easy to extend & maintain
+
+💡 I focus on **engineering quality over just coding**.
+
+🎯 **Current Goal:** Transition into a **top product-based company** by mastering **system design, distributed systems, and cloud architecture**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Engineering Mindset
 
-### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-5A72A0?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-5A72A0?style=flat&logo=javascript)
+> "Code is not just written — it is designed, scaled, and evolved."
 
-### ⚙️ Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-5A72A0?style=flat&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-5A72A0?style=flat&logo=springsecurity)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-5A72A0?style=flat&logo=apachekafka)
+* 🔹 Think in **systems, not just features**
+* 🔹 Prefer **clean architecture over quick hacks**
+* 🔹 Build for **scale from day one**
+* 🔹 Focus on **performance, security & reliability**
+
+---
+
+## 🧩 Tech Stack
+
+### 💻 Core Backend
+
+`Java` • `Spring Boot` • `Spring Security` • `REST APIs`
+
+### ⚙️ Architecture & Systems
+
+`Microservices` • `Event-Driven Architecture` • `Apache Kafka` • `System Design`
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-5A72A0?style=flat&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-5A72A0?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-5A72A0?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5A72A0?style=flat&logo=bootstrap)
+
+`React` • `HTML` • `CSS` • `Bootstrap`
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-5A72A0?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-5A72A0?style=flat&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-5A72A0?style=flat&logo=jenkins)
 
-### 🧰 Tools & IDEs
-![Git](https://img.shields.io/badge/Git-5A72A0?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-5A72A0?style=flat&logo=github)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-5A72A0?style=flat&logo=intellijidea)
-![VS Code](https://img.shields.io/badge/VS%20Code-5A72A0?style=flat&logo=visualstudiocode)
+`AWS (DynamoDB, EC2, IAM)` • `Docker` • `Jenkins CI/CD` • `GitHub Actions`
+
+### 🛠️ Tools
+
+`Git` • `GitHub` • `IntelliJ IDEA` • `VS Code`
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 Comprehensive Task Manager Web Application
-🔗 https://github.com/Balamurali03/ComprehensiveTaskManagerWebApplication  
+### 🔐 AuthSentinel — Annotation-Based Security Library
 
-**Tech:** Spring Boot, Spring Security, React, REST APIs  
-- Built a full-stack task management system with authentication & authorization
-- Implemented secure role-based access
-- Designed RESTful APIs with clean separation of concerns
+🔗 https://github.com/Balamurali03/auth-sentinel
 
----
+**Highlights:**
 
-### 🔹 Basic Practice Spring Boot Application
-🔗 https://github.com/Balamurali03/basic-Practice-App  
+* Built a **custom annotation-driven security framework**
+* Simplifies **authorization logic in Spring Boot**
+* Designed for **plug-and-play integration**
+* Reduces **boilerplate security code**
 
-**Tech:** Spring Boot  
-- Implemented global exception handling
-- Integrated Spring Boot Actuator
-- Added structured logging for production readiness
+**Concepts Used:**
+`Spring AOP` • `Custom Annotations` • `Security Design Patterns`
 
 ---
 
-## 📈 GitHub Stats
+### 🏍️ Two-Wheeler Microservices System
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=dark)
+🔗 [(Add your repo link here)](https://github.com/Balamurali03/reactive-two-wheeler-platform)
+
+**Highlights:**
+
+* Designed a **microservices-based architecture**
+* Implemented **service-to-service communication**
+* Built for **scalability & loose coupling**
+* Applied **real-world system design principles**
+
+**Concepts Used:**
+`Microservices` • `Distributed Systems` • `Service Communication`
 
 ---
 
-## 💼 Connect With Me
+### 🔐 Task Manager (Full Stack Production App)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bala-murali-a56b55168/)
-- 🌐 [Portfolio Website](https://balamurali-portfolio.netlify.app/)
-- 📧 balamurali03101997@gmail.com
+🔗 https://github.com/Balamurali03/ComprehensiveTaskManagerWebApplication
+
+**Highlights:**
+
+* Secure **authentication & role-based authorization**
+* Clean **layered architecture**
+* REST APIs with **separation of concerns**
+* Integrated **React frontend**
+
+---
+
+### 🧪 Spring Boot Practice App
+
+🔗 https://github.com/Balamurali03/basic-Practice-App
+
+**Highlights:**
+
+* Global **exception handling**
+* Structured **logging**
+* **Spring Boot Actuator** for monitoring
+
+---
+
+## 📚 Currently Mastering
+
+* 🧠 Advanced **System Design (HLD + LLD)**
+* 📡 **Apache Kafka (Event-Driven Systems)**
+* ☁️ **AWS Deep Dive (DynamoDB, IAM, EC2)**
+* 🐳 **Docker & Containerization**
+* 🔄 **CI/CD Pipelines (Jenkins + GitHub Actions)**
+* ⚡ **Backend Performance Optimization**
+
+---
+
+## 🧠 What Sets Me Apart
+
+* ✔️ I build **systems**, not just CRUD apps
+* ✔️ I understand **why systems scale or fail**
+* ✔️ I focus on **clean, production-ready code**
+* ✔️ I continuously **learn and apply modern backend practices**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Balamurali03&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balamurali03&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Growth
+
+* 🚀 Built reusable **developer-focused library (AuthSentinel)**
+* 🧩 Designed **microservices-based systems**
+* 📈 Improving **DSA + System Design consistently**
+* 🎯 Preparing for **top product-based companies**
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/bala-murali-a56b55168/
+* 🌐 Portfolio: https://balamurali-portfolio.netlify.app/
+* 📧 Email: [balamurali03101997@gmail.com](mailto:balamurali03101997@gmail.com)
+
+---
+
+## 🧭 Long-Term Vision
+
+To become a **world-class backend engineer** building systems that:
+
+* Scale to millions of users 🌍
+* Handle real-world complexity ⚙️
+* Deliver high performance ⚡
+
+---
+
+⭐️ *If you find my work interesting, consider giving a star — it motivates me to build more!*
 
 ---
 
